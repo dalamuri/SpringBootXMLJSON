@@ -16,8 +16,8 @@ public class RestHomeController {
 		
 		Student student=new Student();
 		student.setFirstName("sougandh");
-		student.setLastName("kumar");
-		student.setUsername("soug");
+		student.setLastName("alamuri");
+		student.setUsername("sougandh");
 		return student;
 	}
 	@XmlRootElement
